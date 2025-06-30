@@ -23,14 +23,14 @@ The goal is to identify revenue/ profit/ margin momentum, understand sales dynam
 Data is provided in **SQLite format**. No CSV export is allowed; all work must be performed using SQL queries.
 
 ### 🧩 Expected Tables
-| Table Name       | Description                                      |
-|------------------|--------------------------------------------------|
-| `fact_sales`     | Sales transactions with quantity & date info     |
-| `dim_products`   | Product details like category, segment, variant  |
-| `dim_customers`  | Customer data, including market and region       |
-| `dim_date`       | Calendar information (year, quarter, month)      |
-| `dim_markets`    | Market and region mapping                        |
-| `product_prices` | Pricing info: gross price, discounts, etc.       |
+| Table Name               | Description                                      |
+|--------------------------|--------------------------------------------------|
+| `dim_sales_monthly`      | Sales transactions with quantity & date info     |
+| `dim_products`           | Product details like category, etc.              |
+| `dim_customers`          | Customer data, including market and region       |
+| `fact_manufacturing_cost`| Cost of the product                              |
+| `fact_pre_discount`      | Discount given to each customer                  |
+| `dim_gross_prices`       | Pricing info: gross price, etc.                  |
 
 ---
 
