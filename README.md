@@ -60,7 +60,7 @@ Data is provided in **SQLite format**. No CSV export is allowed; all work must b
 - 🧺 Top 10 Products by Quantity Sold (Bar chart)
 - 🌍 Product Sales by Region (Map/Heatmap)
 - 🔄 Monthly Sales Trends (Area chart)
-- 🧱 Category-wise Contribution to Total Revenue (Treemap)
+- 🧱 Category-wise Contribution to Total Revenue
 
 ---
 
