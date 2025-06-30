@@ -2,9 +2,9 @@
 
 ## 📌 Project Overview
 
-AtliQ Hardware, a leading computer hardware manufacturer in India and abroad, partnered with PWC to conduct a detailed audit of their sales data and automate reporting. As part of this effort, our team was asked to perform a comprehensive **Product Analysis** using a structured SQLite database provided by the client.
+AtliQ Hardware, a leading computer hardware manufacturer in India and abroad, partnered with PWC to conduct a detailed audit of their sales data and automate reporting. As part of this effort, our team was asked to perform a comprehensive **Financial Analysis** using a structured SQLite database provided by the client.
 
-The goal is to identify best-selling products, understand sales dynamics across time and markets, and deliver actionable insights through interactive dashboards.
+The goal is to identify revenue/ profit/ margin momentum, understand sales dynamics across time and markets, and deliver actionable insights through interactive dashboards.
 
 ---
 
